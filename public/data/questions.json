@@ -1,0 +1,42 @@
+[
+    {
+      "id": "q1",
+      "title": "Analítico/a",
+      "text": "Tiendo a adoptar un enfoque crítico y a buscar razones y causas. Tengo la capacidad de considerar los factores que podrían afectar una situación. Suelo preguntar y buscar patrones y conexiones.",
+      "image": "/media/q1/image.jpg",
+      "videos": {
+        "1": "/media/q1/level1.mp4",
+        "2": "/media/q1/level2.mp4",
+        "3": "/media/q1/level3.mp4",
+        "4": "/media/q1/level4.mp4",
+        "5": "/media/q1/level5.mp4"
+      }
+    },
+    {
+      "id": "q2",
+      "title": "Aprendo de cada situación",
+      "text": "Pienso que las cosas pasan por algo. Cada momento que vivo es un aprendizaje para mí, lo convierto en conocimiento y esto me ayuda a crecer.",
+      "image": "/media/q2/image.jpg",
+      "videos": {
+        "1": "/media/q2/level1.mp4",
+        "2": "/media/q2/level2.mp4",
+        "3": "/media/q2/level3.mp4",
+        "4": "/media/q2/level4.mp4",
+        "5": "/media/q2/level5.mp4"
+      }
+    }
+,
+    {
+        "id": "q3",
+        "title": "Busco la excelencia",
+        "text": "De forma natural prefiero trabajar con y para lo mejor. Tiendo a transformar algo bueno en algo excelente.",
+        "image": "/media/q3/image.jpg",
+        "videos": {
+          "1": "/media/q3/level1.mp4",
+          "2": "/media/q3/level2.mp4",
+          "3": "/media/q3/level3.mp4",
+          "4": "/media/q3/level4.mp4",
+          "5": "/media/q3/level5.mp4"
+        }
+    }
+  ]
